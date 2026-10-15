@@ -411,4 +411,4 @@ elif module == "📤 Exportación de Informes":
         )
 
 st.sidebar.markdown("---")
-st.sidebar.caption("© 2026 BHP - Project Management System | ENC-3430 Class 3 Engineering")
+st.sidebar.caption("COX Dpto de Estudios")
